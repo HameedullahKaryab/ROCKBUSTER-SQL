@@ -23,3 +23,4 @@ Conducting some basic descriptive statistics ( mean,mode,min,max,...) for some v
 Designed the CTEs which make the codes more readable and easier ot reuse.
 ## 5. Reporting the Results:
 A Powerpoint presentation that consists answers to the key business questions as well as some recommendations.
+For the visualisation in Tableau click on the Rockbuster Stealth Data Analysis Project.
