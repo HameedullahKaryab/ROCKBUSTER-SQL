@@ -11,7 +11,13 @@ world. Facing stiff competition from streaming services such as Netflix and Amaz
 # DATA SET
 A data set that contains i nformation about Rockbuster’s film i nventory, customers, and payments, among other things there are. There are 15 tabels in the database. the visualiztions in Tableau for this project can be reached out here.
 # TOOLS:
-The tools used in this project are : PostgreSQL (a databse language), pgAdmin 4, DbVisualizer, Tableau, MS.Excel.
+The tools used in this project are :
+1. PostgreSQL (a databse language)
+2. pgAdmin 4
+3. DbVisualizer
+4. Tableau
+5. MS.Excel.
+   
 # SKILLS DEMONSTRATED:
 ## 1. Data Cleaning:
 Checking and addressing duplicates, non-uniform data and missing values.
@@ -23,4 +29,4 @@ Conducting some basic descriptive statistics ( mean,mode,min,max,...) for some v
 Designed the CTEs which make the codes more readable and easier ot reuse.
 ## 5. Reporting the Results:
 A Powerpoint presentation that consists answers to the key business questions as well as some recommendations.
-For the visualisation in Tableau click on the [Rockbuster Stealth Data Analysis Project](https://public.tableau.com/app/profile/hameedullah.karyab/viz/RockbusterStealthDataAnalysisProject_16936617198400/Top10movies?publish=yes)https://public.tableau.com/app/profile/hameedullah.karyab/viz/RockbusterStealthDataAnalysisProject_16936617198400/Top10movies?publish=yes
+For the visualisation in Tableau click on the [Rockbuster Stealth Data Analysis Project](https://public.tableau.com/app/profile/hameedullah.karyab/viz/RockbusterStealthDataAnalysisProject_16936617198400/Top10movies?publish=yes)
